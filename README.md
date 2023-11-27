@@ -1,2 +1,2 @@
-# face-DETECTOR
+# FACE-DETECTOR
 created with python
