@@ -1,2 +1,2 @@
-# EYE-DETECTOR
+# face-DETECTOR
 created with python
